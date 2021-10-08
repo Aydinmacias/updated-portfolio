@@ -1,0 +1,112 @@
+*{
+    font-family: 'russo one',sans-serif;
+  
+}
+.title{
+    text-align: center;
+    font-size: 75px;
+    text-shadow: 2px .5px 5px rgb(43, 43, 43);
+    cursor: pointer;
+}
+.subtitle{
+    text-align: center;
+    font-size: 35px;
+    text-shadow: 2px .5px 5px rgb(43, 43, 43);
+    cursor: pointer; 
+}
+
+nav ul {
+    display:flex;
+    justify-content:center;
+    justify-content: space-around;
+    border: 5px double rgb(0, 0, 0);
+    font-size: 25px;
+    color:ivory;
+    font-style: oblique;
+    list-style: circle;
+    margin: 15px;
+    padding: 5px;
+
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-family:cursive;
+    flex:inherit;
+    text-decoration: underline;
+}
+
+about-me-p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family:cursive;
+    flex:inherit;
+}
+
+body{
+    background:linear-gradient(23deg, #3e8ccc 2%, rgb(255, 254, 254) 100%) ;
+}
+
+work-1 {
+    font-size: 20px;
+    
+}
+work-1-article{
+    font-size: 18px;
+    display: block;
+}
+work-2{
+    font-size: 20px;
+    display: block;
+}
+h4{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    margin-top: 0px;
+    font-style: oblique;
+    text-decoration: underline;
+}
+contact-list ul{
+    font-size: 18px;
+    list-style: circle;
+}
+
+footer{
+    font-style: oblique;
+    text-decoration:underline overline;
+}
+
+.profile {
+    border-radius: 50%;
+    margin-bottom: 15px;
+    border:thick solid rgb(0, 0, 0);
+    float: right;
+}
+
+div.columns {
+    padding-top: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+div.card-body{
+  justify-content: right;
+  align-items: center;
+
+}
+
+h4{
+
+    
+    list-style: circle;
+    color: rgb(0, 0, 0);
+    font-family:Impact, Ha
+}
+contact-list ul{
+    float: left;
+    font-size: 18px;
+    list-style: circle;
+    color: rgb(0, 0, 0);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
